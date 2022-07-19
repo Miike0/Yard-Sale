@@ -1,0 +1,18 @@
+/* CSS variables */
+:root {
+    --black: #000000;
+    --dark: #232830;
+    --very-light-pink: #C7C7C7;
+    --text-input-field: #F7F7F7;
+    --hospital-green: #ACD9B2;
+    --white: #FFFFFF;
+    --sm: 16px;
+    --md: 18px;
+    --lg: 20px;
+
+}
+/* Font family */
+body {
+    font-family: 'Quicksand', sans-serif;
+    margin: 0;
+}
